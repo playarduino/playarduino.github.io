@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 果粉的部落格
 
-You can use the [editor on GitHub](https://github.com/playarduino/playarduino.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+在这里，你可以看看关于apple的消息，更可以看看黑苹果教程，解决您是果粉但没有apple设备的苦恼
 
 ### Markdown
 
@@ -14,12 +12,8 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1.主要可用于科普
+2.没事可以逛逛
 
 **Bold** and _Italic_ and `Code` text
 
